@@ -1,0 +1,8 @@
+public class SquareNumber {
+
+    public int n;
+    public int squaredNumber;
+    public SquareNumber(int n) {
+         squaredNumber = n*n;
+    }
+}
